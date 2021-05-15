@@ -7,4 +7,9 @@ ALGORİTMA VE PROGRAMLAMA2 DERSİ VİZE ÖDEVİ2
 
 [Google Linki](http://www.google.com)
 
-[Google Linki](http://www.google.com)
+**ALGORİTMA VE PROGRAMLAMA2 DERSİ VİZE ÖDEVİ2**<br/>
+*İtalik*  <br/>
+## Programlama
+# Algoritma
+
+
